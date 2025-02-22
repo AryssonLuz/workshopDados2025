@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 git add .
 git commit -m "meu primeiro commit"
 git push
+=======
+git add .
+git commit -m "meu primeiro commit"
+git push
+>>>>>>> 403d57ca876f0caac48e8dbac9eb453d4d1ae401
